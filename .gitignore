@@ -1,0 +1,23 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Node modules (if any scripts or workflows use Node)
+node_modules/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Dependency directories
+bower_components/
+
+# Environment files (if any secrets or configs are stored)
+.env
