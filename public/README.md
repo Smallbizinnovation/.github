@@ -1,4 +1,4 @@
-![SmallBiz Innovation Logo](https://images.smallbizinnovation.com/m/logos/logo-profile.png)
+![SmallBiz Innovation Logo](https://images.smallbizinnovation.com/m/logos/logo-profile.png/small)
 
 # SmallBiz Innovation
 
